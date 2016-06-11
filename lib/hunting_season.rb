@@ -1,5 +1,6 @@
 require 'product_hunt/api/users'
 require 'product_hunt/api/posts'
+require 'product_hunt/api/comments'
 
 require 'product_hunt/api'
 require 'product_hunt/client'

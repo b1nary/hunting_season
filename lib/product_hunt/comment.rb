@@ -1,5 +1,5 @@
 module ProductHunt
   class Comment
-    include ProductHunt::Entity
+    include Entity
   end
 end
